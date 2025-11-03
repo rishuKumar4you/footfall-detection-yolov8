@@ -35,6 +35,9 @@ Under the hood:
 
 This approach is particularly useful for footfall estimation — counting unique individuals who enter or exit a monitored zone.
 
+# 📹 youtube link 
+[Please click to view on youtube](https://youtu.be/3YmKd-qZ1rM?si=hXsFhuO4ivXpwCI4)
+
 # 🧾 Acknowledgements
 
 * Project inspired by: [insomnius/person-detection](https://github.com/insomnius/person-detection/tree/master)
